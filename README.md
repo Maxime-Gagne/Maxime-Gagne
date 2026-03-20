@@ -3,7 +3,7 @@
 > *"The real value will come from orchestrating agents to complete entire processes, with feedback from humans."*
 > — McKinsey & Company, 2025 *(paraphrase condensée de The State of AI: Agents, innovation, and transformation)*
 
-**On pourrait me reprocher mes 9 mois d'expérience « classique ».**
+**On pourrait me reprocher mon manque d'expérience « classique ».**
 Ce document montre que, sur les compétences clés identifiées par McKinsey, Gartner et les roadmaps IA 2026, mes systèmes implémentent déjà ce que les experts décrivent — pas en théorie, mais en code qui tourne.
 
 ---
